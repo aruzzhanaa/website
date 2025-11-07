@@ -1,2 +1,6 @@
-# website
-Учебный проект — 5-страничный сайт
+/index.html
+/about.html
+/contact.html
+/services.html
+/gallery.html
+/style.css
